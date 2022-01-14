@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [dbo].[spUserGetAll]
+﻿CREATE PROCEDURE [dbo].[spUser_GetAll]
 
 AS
 BEGIN
